@@ -1,4 +1,5 @@
 # Cluster Ninja Academy - AI Chatbots and Agents Training Course
+![Cluster Ninja Academy](https://github.com/Ayocrypt/Cluster-Ninja-Academy/blob/main/IMG_20240802_063500.jpg)
 
 ## Projects to be Built
 1. **Build Your First ChatGPT with Streamlit**: Create an interactive chatbot using `Streamlit` and `LangChain`.
