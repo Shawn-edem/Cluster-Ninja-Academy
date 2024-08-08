@@ -1,6 +1,7 @@
 ### Cluster Ninja Academy - Cybersecurity Fundamentals Course
 
 ## Course Overview
+https://1drv.ms/p/s!AgYUS2f3nGyMcx6zwgAy8aCF7Cw?e=Ar644e
 
 ### Objective
 Equip students with foundational knowledge in cybersecurity, preparing them for certifications like CompTIA Security+ and CEH (Certified Ethical Hacker).
