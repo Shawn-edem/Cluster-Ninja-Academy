@@ -9,7 +9,7 @@ To reinforce the concepts learned in class by applying them to practical coding 
 #### **Instructions**:
 - Complete the following exercises.
 - Write your code in a `.py` file and include comments to explain your code.
-- Submit your assignment by the due date [Insert Due Date Here].
+- Submit your assignment by the due date Monday.
 - Be sure to test your code and ensure it runs without errors.
 
 ---
