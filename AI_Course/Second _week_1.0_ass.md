@@ -181,3 +181,7 @@ To deepen your understanding of Python by working on more complex problems that 
 - Submit to this email address: akinloluojo1@gmail.com
 
 ---
+
+## Solution
+
+Please Find the solution here [Solution to the Assignment](https://colab.research.google.com/drive/1Yziz3IVc3OKQgIseP8KLWaqxKRX6GUv1#scrollTo=cfef909c-52f2-41e3-83c0-57e0bf814fe4&uniqifier=1)
