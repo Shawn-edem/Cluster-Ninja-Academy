@@ -233,4 +233,3 @@ To enhance your Python skills by working on more complex tasks involving classes
 
 ---
 
-If you need more examples or additional help, you can explore the tutorials on [Real Python](https://realpython.com), which offers in-depth explanations and practical exercises for various Python topics.
