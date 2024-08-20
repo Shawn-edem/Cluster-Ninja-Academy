@@ -78,8 +78,8 @@ For **Assignment** where saving output to mp3 please   following this instructio
 ------------------------------------------------------------------------------------------------------------
 ### ASSIGNMENT 
 
-references 1: [Click here to view examples and reference for pyttsx3](https://github.com/nateshmbhat/pyttsx3)
-references 2: [Click here to view examples and reference for gTTS](https://github.com/pndurette/gTTS)
+- references 1: [Click here to view examples and reference for pyttsx3](https://github.com/nateshmbhat/pyttsx3)
+- references 2: [Click here to view examples and reference for gTTS](https://github.com/pndurette/gTTS)
 
 ### **Assignment 1: Basic Text-to-Speech Conversion**
 **Objective:** Familiarize with the basic usage of `pyttsx3` for converting text to speech.
